@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+div{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10rem auto;
+}
+
+button{
+    align-items: center;
+    width: 10rem;
+    height: 5rem;
+    background-color: lightgrey;
+    padding: 12px;
+    font-size: 1.5rem;
+    border-radius: 8px;
+    border: 2px solid lightgrey;
+    text-align:center;
+}
